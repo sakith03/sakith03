@@ -1,195 +1,112 @@
-<h1 align="center">
-  Hi 👋 I'm Sakith Abeywickrama
-</h1>
+<h1 align="center">Hi there 👋 I'm Sakith Abeywickrama</h1>
 
-<h3 align="center">
-  Computer Science Undergraduate | Full Stack Developer | System Builder
-</h3>
+<h3 align="center">🚀 CS Student | AI Explorer | DevOps Enthusiast</h3>
+<h4 align="center">Exploring AI, building scalable systems, and shipping real-world solutions</h4>
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Explorer;DevOps+Enthusiast;Full+Stack+Developer;Always+Learning+Always+Shipping&font=Fira%20Code&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps-Enthusiats;Parallel+Computing+Enthusiast;Building+Real-World+Systems;Cloud+Deployment+Explorer" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakith03&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakith03&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 DevOps enthuasist
-- 💻 Passionate about secure backend architecture
-- 🧵 Experienced in OpenMP parallel optimization
-- ☁️ Deploying real-world apps to Azure and AWS
-- 🔐 Focused on scalable authentication systems
-- 🇱🇰 Based in Sri Lanka
-
----
----
-
-# 🚀 Technical Skills
-
-## 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,c,python,js,ts" />
-</p>
-
----
-
-## ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
-</p>
-
-- ASP.NET Core (C#)
-- Spring Boot
-- REST API Development
-- Authentication & Authorization
-
----
-
-## 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-- React
-- Next.js (TypeScript)
-- Axios
-- Component-Based Architecture
-
----
-
-## 🗄 Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-- MySQL
-- PostgreSQL
-- Data Modeling
-- Query Optimization
-
----
-
-## ☁️ Cloud, DevOps & Automation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,githubactions,docker" />
-  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="48"/>
-</p>
-
-- Azure Web Apps
-- AWS (EC2 exposure)
-- CI/CD Pipelines
-- GitHub Actions
-- Docker
-- n8n (Workflow Automation & Integration)
-
----
-
-## 🧵 Parallel Computing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" />
-</p>
-
-- OpenMP
-- Race Condition Handling
-- Atomic & Critical Sections
-- Performance Benchmarking
-
----
-
-## 🔥 Featured Projects
-
-### 🎙️ Vocalyx – AI-Powered Communication Platform
-A modern system designed for intelligent voice-driven interaction and smart communication workflows.
-
-**Highlights:**
-- Secure authentication system
-- Structured backend architecture
-- Scalable API design
-- Clean React frontend integration
-- AI integration
-- Cloud deployment ready
-
-**Tech:** Spring Boot | React | MySQL | Azure | n8n
-
----
-
-### 🌱 IFAS – Intelligent Feasibility & Sustainability Assessment System
-
-A sustainability-focused decision-support platform designed to evaluate new business ideas before launch.
-
-The system analyzes operational, financial, and sustainability metrics to determine business viability and long-term impact.
-
-**Core Features:**
-- Sustainability scoring engine
-- Business feasibility evaluation
-- Risk & impact assessment logic
-- Secure authentication & role-based access
-- Structured RESTful API integration
-- CI/CD automated deployment pipeline
-
-**Tech Stack:**
-- Backend: ASP.NET Core (C#)
-- Frontend: Next.js (TypeScript)
-- Database: PostgreSQL
-- DevOps: CI/CD Pipeline
-
-**Engineering Focus:**
-- Clean architecture
-- Scalable backend design
-- Data modeling & validation
-- Production-ready deployment workflow
-
----
-### 🧵 Parallel π Estimation (OpenMP)
-
-- Fixed race conditions using `atomic` and `critical`
-- Performance benchmarking on EC2 (1 Core / 2 vCPU)
-- Thread scalability experiments
-- High-performance computation optimization
-
----
-
-### 👓 AlertEYE – Smart Drowsiness Detection
-
-- Driver fatigue detection prototype
-- Android reward integration
-- Presented at Idea Spark Exhibition
-- Real-world safety solution
-
----
-
-## 📈 GitHub Analytics
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakith03&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakith03&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakith03&theme=gotham&hide_border=true" />
 </p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakith03&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakith03&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧠 About Me
 
-- 🎓 Dean’s List – SLIIT
-- 🚀 IESL Moratuwa StartupSpark Finalist (Top 20)
-- 💡 MSCLub Minihackathon finalists
-
----
-
-## 🎯 Current Focus
-
-- Scalable Authentication Architectures
-- Advanced Backend System Design
-- High Performance Computing
-- Cloud-Native Applications
+- 💡 Exploring AI, automation & emerging technologies  
+- 🔧 Full-stack developer focused on **.NET (C#), TypeScript, Next.js**  
+- ☁️ **DevOps Enthusiast** — CI/CD, GitHub Actions, AWS  
+- 🔄 Workflow automation using **n8n**  
+- 🌍 Building systems that solve real-world problems  
+- 🚀 Always learning. Always shipping. One commit at a time.  
 
 ---
 
-## 👀 Profile Views
+## 🏗️ Featured Projects
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sakith03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+### 🌱 IFAS – Sustainability Checking System
+> Built with .NET (C#), TypeScript, Next.js, PostgreSQL & CI/CD  
+A sustainability validation platform for new businesses ensuring compliance and responsible growth.
+
+---
+
+### 🎙️ Vocalyx
+AI-powered voice-driven solution exploring intelligent human-computer interaction.
+
+---
+
+### 🚨 AlertEYE
+Smart monitoring and alert system designed for practical real-world implementation.
+
+---
+
+## ⚙️ Tech Stack
+
+### 👨‍💻 Programming & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,react,nextjs,nodejs,python" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" />
+</p>
+
+### 🔄 Automation
+<p align="center">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
+</p>
+---
+
+## 🏆 GitHub Trophies
+
+</p> <p align="center"> <img src="https://img.shields.io/badge/GitHub-Stars-ff69b4?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/GitHub-Forks-00bfff?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/GitHub-Issues-fuchsia?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/GitHub-Contributions-8a2be2?style=for-the-badge&logo=github" /> </p>
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakith03&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
