@@ -50,9 +50,9 @@
 
 ## 🏗️ Featured Projects
 
-### 🌱 IFAS – Sustainability Checking System
-> Built with .NET (C#), TypeScript, Next.js, PostgreSQL & CI/CD  
-A sustainability validation platform for new businesses ensuring compliance and responsible growth.
+### 🌱LoadMate - Student workload management and collabarative system
+> Built with .NET (C#), JavaScript, Next.js, MSSQL & CI/CD  
+A system which helps students manage their work and collbarate easily with other students.
 
 ---
 
