@@ -61,8 +61,9 @@ AI-powered voice-driven solution exploring intelligent human-computer interactio
 
 ---
 
-### 🚨 AlertEYE
-Smart monitoring and alert system designed for practical real-world implementation.
+### 🎮 Time Loop Escape Game
+A 3D game developed using Unity with custom-designed characters and objects created in Blender. The game incorporates a graph-based system to manage nodes and edges,
+enabling structured interactions and point allocation within the game environment.
 
 ---
 
