@@ -98,7 +98,7 @@ enabling structured interactions and point allocation within the game environmen
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/sakith-abeywickrama">
+  <a href="https://www.linkedin.com/in/sakith-abeywickrama/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://twitter.com/YOUR_TWITTER">
